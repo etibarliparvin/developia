@@ -1,0 +1,5 @@
+<DbConfig>
+<url>jdbc:mysql://localhost:3306/developia?useSSL=false &amp; serverTimezone=UTC</url>
+<username>root</username>
+<password>112358</password>
+</DbConfig>
